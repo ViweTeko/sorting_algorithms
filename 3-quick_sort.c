@@ -53,7 +53,7 @@ void _pos(int *array, int *num1, int *num2, size_t size)
  * @low: low
  * @high: high
  * @size: size of the array
- * 
+ *
  * Return: index of partition
  **/
 int partition(int *array, int low, int high, size_t size)
